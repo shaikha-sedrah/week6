@@ -1,0 +1,12 @@
+nav img{
+    height:100px;
+    width:120px;
+}
+.nav-pills{
+    padding:12px 0px;
+    border-radius: 20px;
+}
+.content{
+    padding:40px 0px !important;
+    width: 900px!important;
+}
